@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio-bootcamp",
+  "version": "1.0.0",
+  "description": "Este es un ejercicio de Node para Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "hola": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brubula/ejercicio1-bootcamp.git"
+  },
+  "keywords": [
+    "ejercicio1",
+    "bootcamp"
+  ],
+  "author": "Kauz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brubula/ejercicio1-bootcamp/issues"
+  },
+  "homepage": "https://github.com/brubula/ejercicio1-bootcamp#readme"
+}
